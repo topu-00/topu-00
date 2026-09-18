@@ -38,7 +38,7 @@ My focus is on writing clean, practical, and maintainable code while learning ne
 
 ---
 
-## 🛠️ Skills
+## 🧰 Tech Stack
 
 <table>
 <tr>
@@ -65,8 +65,6 @@ TypeScript
 ```text
 HTML
 CSS
-JavaScript
-TypeScript
 React.js
 Next.js
 Tailwind CSS
