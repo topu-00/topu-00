@@ -246,6 +246,10 @@ FUTURE
 <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=0EA5E9" />
 </a>
 
+<a href="https://www.linkedin.com/in/topusorker/">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
 </div>
 
 ---
@@ -265,3 +269,4 @@ FUTURE
 <img src="https://komarev.com/ghpvc/?username=topu-00&style=flat-square&color=0EA5E9&label=profile+views" alt="Profile Views"/>
 
 </div>
+
