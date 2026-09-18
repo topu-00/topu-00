@@ -1,36 +1,269 @@
-<h1 align="center">Hi 👋, I'm TOPU</h1>
-<h3 align="center">I aspire to acquire wisdom.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=max29087&label=Profile%20views&color=0e75b6&style=flat" alt="max29087" /> </p>
+# 👨‍💻 Hey, I'm Mahmudul Hasan Topu
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max29087" alt="max29087" /></a> </p>
+### Full-Stack Developer | MERN Stack | Always Learning 🌱
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;JavaScript+%7C+TypeScript;Always+Learning+%26+Building" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **C,C++,Java,OOP and JavaScript**
+</div>
 
-- 💬 Ask me about **C,C++,Java,OOP**
+---
 
-- 📫 How to reach me **https://topusorker.netlify.app/**
+<img align="right" alt="Coding" width="350" src="./assets/code.gif"/>
 
-- ⚡ Fun fact **I think I am funny but not a joker.**
+### `$ whoami`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/topu172?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/topu172?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mi_chael_max?igsh=dzczmw9ndwiwndhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mi_chael_max?igsh=dzczmw9ndwiwndhy" height="30" width="40" /></a>
-</p>
+```yaml
+name     : Mahmudul Hasan Topu
+role     : Full-Stack Developer
+focus    : MERN Stack & Modern Web Development
+frontend : React.js · Next.js · TypeScript
+backend  : Node.js · Express.js
+database : MongoDB · MySQL · PostgreSQL
+learning : Always learning and building
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=max29087&show_icons=true&locale=en&layout=compact" alt="max29087" /></p>
+### `$ cat philosophy.txt`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=max29087&show_icons=true&locale=en" alt="max29087" /></p>
+> **"Keep learning, keep building, and keep improving."**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=max29087&" alt="max29087" /></p>
+I enjoy building modern web applications and continuously improving my development skills.
 
-<!---
-Max29087/Max29087 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My focus is on writing clean, practical, and maintainable code while learning new technologies.
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Skills
+
+<table>
+<tr>
+
+<td valign="top" width="25%">
+
+**Languages**
+
+```text
+C
+C++
+Java
+PHP
+JavaScript
+TypeScript
+```
+
+</td>
+
+<td valign="top" width="25%">
+
+**Frontend**
+
+```text
+HTML
+CSS
+JavaScript
+TypeScript
+React.js
+Next.js
+Tailwind CSS
+```
+
+</td>
+
+<td valign="top" width="25%">
+
+**Backend & Database**
+
+```text
+Node.js
+Express.js
+MongoDB
+MySQL
+PostgreSQL
+```
+
+</td>
+
+<td valign="top" width="25%">
+
+**Tools & Design**
+
+```text
+Git
+GitHub
+Figma
+```
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge\&logo=c\&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge\&logo=php\&logoColor=777BB4)
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge\&logo=nextdotjs\&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=topu-00&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
+
+</div>
+
+> Automatically generated from your GitHub activity.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=topu-00&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topu-00&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9" height="180"/>
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topu-00&layout=donut&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9" alt="Most Used Languages" height="250"/>
+
+</div>
+
+> Language statistics are based on the code in your GitHub repositories.
+
+---
+
+## 🔥 Coding Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=topu-00&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🚀 My Development Journey
+
+```text
+PAST
+ │
+ ├── Started with C & C++
+ ├── Learned Java & OOP
+ ├── Explored PHP & MySQL
+ └── Built a foundation in Programming
+ │
+ ▼
+CURRENT
+ │
+ ├── Full-Stack Development
+ ├── MERN Stack
+ ├── React.js & Next.js
+ ├── Node.js & Express.js
+ ├── JavaScript & TypeScript
+ ├── MongoDB
+ ├── MySQL & PostgreSQL
+ └── Building Real-World Projects
+ │
+ ▼
+FUTURE
+ │
+ ├── Build Scalable Applications
+ ├── Learn New Technologies
+ ├── Improve Problem Solving
+ ├── Write Clean & Maintainable Code
+ └── Grow as a Full-Stack Developer
+```
+
+> 🌱 **Learning never stops. Building never stops.**
+
+---
+
+### `$ cat developer.log`
+
+```text
+[✓] Full-Stack Web Development
+[✓] MERN Stack
+[✓] React.js & Next.js
+[✓] JavaScript & TypeScript
+[✓] Node.js & Express.js
+[✓] MongoDB, MySQL & PostgreSQL
+[✓] Git & GitHub
+[✓] Tailwind CSS
+[✓] Figma
+
+[→] Learning new technologies
+[→] Building better projects
+[→] Improving problem-solving skills
+[→] Growing as a Full-Stack Developer
+```
+
+---
+
+### `$ ./connect.sh`
+
+<div align="center">
+
+<a href="https://github.com/topu-00">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://topusorker.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=0EA5E9" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│       Always learning. Always building. 🚀           │
+│                                                      │
+│       Let's build something meaningful together.      │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+<img src="https://komarev.com/ghpvc/?username=topu-00&style=flat-square&color=0EA5E9&label=profile+views" alt="Profile Views"/>
+
+</div>
