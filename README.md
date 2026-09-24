@@ -139,7 +139,7 @@ Figma
 
 </div>
 
-> Automatically generated from your GitHub activity.
+> Automatically generated from my GitHub activity.
 
 ---
 
@@ -147,9 +147,9 @@ Figma
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=topu-00&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=topu-00&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topu-00&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topu-00&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -162,6 +162,7 @@ Figma
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topu-00&layout=donut&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9" alt="Most Used Languages" height="250"/>
 
 </div>
+
 
 > Language statistics are based on the code in your GitHub repositories.
 
